@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // ignore: depend_on_referenced_packages
 import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter_assignment/Authentication_classw/login.dart';
+import 'package:flutter_assignment/Authentication/login.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
